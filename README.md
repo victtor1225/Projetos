@@ -1,7 +1,6 @@
 # Projetos
 Projetos realizados e participações
-Segue as pastas com a comprovaçao de participaçao e execuçao de cada projeto.  
-Sendo eles:  
+
 -Participação na construção dos circuitos elétricos de um nanossatelite e design das placas usando o EasyEda.  
 -Programção em C++: Arduino e ESP32.  
 -Experiencia em IoT.  
