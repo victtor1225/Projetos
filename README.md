@@ -1,5 +1,5 @@
-# comprovantes
-Comprovantes de projetos realizados e participação em projetos  
+# Projetos
+Projetos realizados e participações
 Segue as pastas com a comprovaçao de participaçao e execuçao de cada projeto.  
 Sendo eles:  
 -Participação na construção dos circuitos elétricos de um nanossatelite e design das placas usando o EasyEda.  
@@ -11,3 +11,4 @@ Sendo eles:
 -Construção e programação de um Robô Solucionador de Cubo Mágico.  
 -Contrução de uma Plotter 2D em Microprocessadores I.  
 Os arquivos de extensao ".md" sao os uploads dos videos.
+Segue também um breve curriculo.
